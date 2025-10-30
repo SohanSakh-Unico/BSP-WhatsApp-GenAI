@@ -1,0 +1,213 @@
+{
+    "product_id": "ATHENS_ONE_DAY_CRUISE_ULTIMATE",
+    "operator_name": "Platinum Cruises Consortium",
+    "consortium_note": "A premier collaboration/consortium between Hydraiki Naval Company and Evermore Cruises.",
+    "corporate_vat_id": "997062191",
+    "total_duration_hours_approx": 11.50,
+    "vessel_features": {
+        "vessel_names": [
+            "Cosmos (70m luxury cruise yacht)",
+            "Platytera ton Ouranon (Modern, three-deck catamaran)"
+        ],
+        "deck_access": "Two comfortable inside lounge decks, outdoor sun deck",
+        "dining": "Bar Access (A la carte)",
+        "entertainment": [
+            "Greek Live Show",
+            "Folk Dance Show",
+            "Live orchestra"
+        ],
+        "onboard_amenities": [
+            "Modern bars",
+            "Boutique corner",
+            "Wi-Fi",
+            "Advanced audiovisual system (on Cosmos)"
+        ]
+    },
+    "pricing_and_packages": {
+        "standard_experience_summer_offer": {
+            "adult_price_eur": 119.00,
+            "adult_price_popular_eur": 141.00,
+            "inclusions_base": [
+                "Three-island visitation (Hydra, Poros, Aegina)",
+                "Lunch Buffet",
+                "Full access to lounges and outdoor decks",
+                "Greek Live Show and Folk Dance Show",
+                "Port taxes"
+            ]
+        },
+        "vip_luxury_cruise": {
+            "adult_price_eur": 235.00,
+            "adult_price_popular_eur": 261.00,
+            "inclusions_exclusive": [
+                "Private Transportation to/from hotel (from over 70 selected hotels)",
+                "Express Check In Embarkation (Fast Lane)",
+                "Exclusive VIP Lounge/Bar access",
+                "Business Class Buffet (served in a separated area)",
+                "First class Finger food",
+                "Unlimited soft drinks, water, filter coffee, Greek Meze with Ouzo",
+                "VIP Exclusive WiFi",
+                "Guided Shore Excursion (Choice between Hydra Walking Tour OR Aegina Panoramic Tour)",
+                "Visit to the cruise ship’s bridge and meeting with the Captain",
+                "Discount on ship’s boutique"
+            ],
+            "optional_upgrade": "VIP Executive Cabin Suite (private sanctuary)"
+        },
+        "dynamic_pricing_notes": {
+            "child_pricing_official_status": "Not published on official site",
+            "child_pricing_5_11_w_transfer_secondary": 104.00,
+            "transfer_cost_standard_eur_range": "€14.00 to €25.00 (varies by location)",
+            "carrier_right_to_change_rates": true,
+            "carrier_right_to_impose_fuel_surcharges": true
+        }
+    },
+    "logistics_and_itinerary": {
+        "port_departure_return": "Marina Kallitheas",
+        "departure_time_standard": "07:45 AM (Boarding)",
+        "arrival_time_standard": "19:45 PM (Return to port)",
+        "itinerary_flexibility": "Sequence may vary (e.g., Hydra-Poros-Aegina or Poros-Hydra-Aegina)",
+        "island_schedule": [
+            {
+                "island": "Hydra",
+                "arrival": "11:10 AM",
+                "departure": "12:50 PM",
+                "stop_duration_minutes": 100,
+                "suggested_activities": [
+                    "Walking exploration/tour",
+                    "Shopping (Hydra Walking Guided Tour is VIP included)"
+                ],
+                "excursion_status": "Hydra Walking Guided Tour is the sole optional shore excursion"
+            },
+            {
+                "island": "Poros",
+                "arrival": "14:00 PM",
+                "departure": "14:50 PM",
+                "stop_duration_minutes": 50,
+                "suggested_activities": [
+                    "Scenic viewing break",
+                    "Short walk"
+                ],
+                "excursion_status": "No optional excursions offered"
+            },
+            {
+                "island": "Aegina",
+                "arrival": "16:10 PM",
+                "departure": "18:10 PM",
+                "stop_duration_minutes": 120,
+                "suggested_activities": [
+                    "Primary excursion opportunity",
+                    "Pistachio exploration",
+                    "Visiting historical sites"
+                ],
+                "excursion_status": "Four distinct optional excursions available"
+            }
+        ]
+    },
+    "optional_shore_excursions": [
+        {
+            "island": "Hydra",
+            "name": "Walking Guided Tour",
+            "duration_minutes": 70,
+            "inclusions": [
+                "Local Guide",
+                "Pastry tasting (Amygdalota)",
+                "Entrance to Cathedral's Museum"
+            ],
+            "cost_status": "Unavailable/Onboard sales only (Free for VIP)"
+        },
+        {
+            "island": "Aegina",
+            "name": "Cultural Tour (Temple of Aphaia / St. Nektarios)",
+            "duration_minutes": 110,
+            "inclusions": [
+                "Bus transportation",
+                "Guide",
+                "Visits to Aphaia Temple and St. Nektarios Cathedral"
+            ],
+            "cost_status": "Unavailable/Onboard sales only",
+            "critical_note": "Entrance Fee to archaeological sites is NOT included"
+        },
+        {
+            "island": "Aegina",
+            "name": "Swimming Tour (Marathonas Beach)",
+            "duration_minutes": 110,
+            "inclusions": [
+                "Bus transfer to Marathonas beach"
+            ],
+            "cost_status": "Unavailable/Onboard sales only"
+        },
+        {
+            "island": "Aegina",
+            "name": "Panoramic Tour (w/ Food Tasting)",
+            "duration_minutes": 90,
+            "inclusions": [
+                "Guided bus excursion",
+                "Pistachio tree viewing",
+                "Ouzo and traditional Greek meze tasting"
+            ],
+            "cost_status": "Unavailable/Onboard sales only (Free for VIP as alternative choice)"
+        },
+        {
+            "island": "Aegina",
+            "name": "Walking Tour (Capital)",
+            "duration_minutes": 60,
+            "inclusions": [
+                "Local Guide",
+                "Exploration of Neoclassical architecture",
+                "Pistachio delicacy exploration"
+            ],
+            "cost_status": "Unavailable/Onboard sales only"
+        }
+    ],
+    "operational_and_legal_policies": {
+        "passenger_eligibility": {
+            "infants_minimum_age": "6 months (strict prohibition below)",
+            "infant_support": "None (No food, milk, or babysitting services provided)",
+            "minors_unaccompanied": "Requires certified parental consent form",
+            "pregnancy_policy": {
+                "medical_certificate_required": "From 24th week",
+                "travel_prohibited_from": "28th week and later"
+            }
+        },
+        "onboard_restrictions": {
+            "prohibited_items": [
+                "Outside alcohol",
+                "Outside food"
+            ],
+            "conduct_restrictions": [
+                "No gambling (Greek law)",
+                "Swimwear prohibited in dining areas",
+                "Smoking forbidden in all indoor areas"
+            ],
+            "pet_policy": "Pets not allowed; Certified assistant dogs permitted upon request only"
+        },
+        "cancellation_policy": {
+            "refund_window_hours": 24,
+            "refund_percentage": 100,
+            "rescheduling_window_hours": 24
+        },
+        "liability_limitations": {
+            "injury_death": "Carrier liable only for gross negligence",
+            "private_property": "Carrier explicitly NOT liable for loss or damage",
+            "medical_care_quality": "Carrier assumes NO liability for quality of care at ports"
+        },
+        "legal_framework": {
+            "governing_law": "Greek law and the Athens Convention",
+            "jurisdiction": "Courts of Piraeus, Greece"
+        }
+    },
+    "contact_details": {
+        "phone_primary": "+30 211 186 6400",
+        "email_sales_support": "website@athensdaycruise.gr",
+        "instant_messaging_support": [
+            "Viber Call",
+            "WhatsApp Call (via +306937415230)"
+        ],
+        "physical_address": "155 Syggrou Avenue, 17121 Nea Smyrni, Athens, Greece",
+        "social_media": [
+            "Facebook",
+            "Instagram",
+            "YouTube",
+            "TripAdvisor"
+        ]
+    }
+}
